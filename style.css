@@ -1,0 +1,19 @@
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:antiquewhite;
+    font-weight: bold;
+}
+.body{
+    background-color: rgb(0, 0, 0);
+}
+
+.list.index{
+    font-size: 24px;
+}
+.list,.para{
+    color:rgb(230, 103, 103);
+}
+/* .indexb{
+    background-image: url("img/lasagna.jpeg");
+    background-blend-mode:lighten;
+} */
